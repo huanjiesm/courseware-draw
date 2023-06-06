@@ -1,17 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T12:03:03.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="k9hIjw9zsVDYkUnPFPg_" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T12:15:09.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ny_WMCxC1VZ52A1dKRfo" version="21.3.5" type="github">
   <diagram name="第 1 页" id="kdN2cWDfxXrV95HG6LbP">
-    <mxGraphModel dx="1687" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-50" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="800" height="790" as="geometry" />
         </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="710" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="100" y="680" width="710" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="710" height="290" as="geometry" />
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-13" value="WS服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="100" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
+          <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-35" value="发送消息" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.209;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
+            <mxPoint x="-105" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-48.41000000000008" y="620" />
+              <mxPoint x="-38.41000000000008" y="680" />
+              <mxPoint x="1.5899999999999181" y="690" />
+              <mxPoint x="-18.410000000000082" y="650" />
+              <mxPoint x="-98.41000000000003" y="540" />
+            </Array>
+            <mxPoint x="45" y="620" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
+          <mxGeometry x="45" y="620" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="99" y="480" width="710" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-7" value="业务后台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="100" height="740" as="geometry" />
@@ -48,10 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-10">
-          <mxGeometry x="45" y="620" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-10">
-          <mxGeometry x="45" y="460" width="10" height="40" as="geometry" />
+          <mxGeometry x="45" y="620" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-10">
           <mxGeometry x="205" y="420" width="10" height="120" as="geometry" />
@@ -102,47 +125,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-33" value="广播消息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.245;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9CU3SHtLa-UpWZ32ttzC-10">
-          <mxGeometry x="0.0031" relative="1" as="geometry">
-            <mxPoint x="-265" y="659.92" as="targetPoint" />
-            <Array as="points" />
-            <mxPoint x="205" y="659.92" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-13" value="WS服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="100" height="740" as="geometry" />
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
-          <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-35" value="发送消息" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.209;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
-          <mxGeometry x="-0.0016" relative="1" as="geometry">
-            <mxPoint x="-105" y="620" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-48.41000000000008" y="620" />
-              <mxPoint x="-38.41000000000008" y="680" />
-              <mxPoint x="1.5899999999999181" y="690" />
-              <mxPoint x="-18.410000000000082" y="650" />
-              <mxPoint x="-98.41000000000003" y="540" />
-            </Array>
-            <mxPoint x="45" y="620" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
-          <mxGeometry x="45" y="620" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-36" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.17;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9CU3SHtLa-UpWZ32ttzC-13">
-          <mxGeometry x="0.0031" relative="1" as="geometry">
-            <mxPoint x="-105" y="699.17" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="16.539999999999964" y="699.17" />
-              <mxPoint x="-13.460000000000036" y="699.17" />
-            </Array>
-            <mxPoint x="45" y="699.17" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-10">
+          <mxGeometry x="45" y="460" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-23" value="业务WEB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="100" height="740" as="geometry" />
@@ -152,9 +136,6 @@
         </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-25" value="WS服务API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="720" y="80" width="100" height="740" as="geometry" />
-        </mxCell>
-        <mxCell id="9CU3SHtLa-UpWZ32ttzC-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-25">
-          <mxGeometry x="-620" y="400" width="710" height="160" as="geometry" />
         </mxCell>
         <mxCell id="9CU3SHtLa-UpWZ32ttzC-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="9CU3SHtLa-UpWZ32ttzC-25">
           <mxGeometry x="45" y="140" width="10" height="40" as="geometry" />
@@ -185,6 +166,25 @@
             <mxPoint x="295" y="260" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="765" y="260" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-36" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.17;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="455" y="739.7099999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="576.54" y="739.7099999999999" />
+              <mxPoint x="546.54" y="739.7099999999999" />
+            </Array>
+            <mxPoint x="605" y="739.7099999999999" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CU3SHtLa-UpWZ32ttzC-33" value="广播消息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.245;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="135" y="780" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="605" y="780" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
