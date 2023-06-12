@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:37:33.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sWN1SfYOhOjASNaAgMrr" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:37:43.155Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vfq0WsRxe8G1taYXxA8V" version="21.3.7" type="github">
   <diagram name="第 1 页" id="RrTDFb7vDgwhn4qx4z_p">
-    <mxGraphModel dx="1062" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,9 +177,6 @@
             <mxPoint x="765" y="560" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1AkQIjq42c_OFpIzC1DM-40" value="课件编辑器，课件后台，WS服务，AI服务，AI代理服务，MQ队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1AkQIjq42c_OFpIzC1DM-41" value="文本生成图片" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.097;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.429;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
