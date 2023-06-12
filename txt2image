@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:34:21.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iWX8djiSZMoB3oXxx06W" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:37:16.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="yL5J17h-BP2j2-wPPWF-" version="21.3.7" type="github">
   <diagram name="第 1 页" id="RrTDFb7vDgwhn4qx4z_p">
-    <mxGraphModel dx="1195" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AkQIjq42c_OFpIzC1DM-78" value="同步结果至编辑器" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1AkQIjq42c_OFpIzC1DM-7">
+        <mxCell id="1AkQIjq42c_OFpIzC1DM-78" value="同步结果(进度)至编辑器" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1AkQIjq42c_OFpIzC1DM-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-105" y="980.1700000000001" as="targetPoint" />
             <Array as="points" />
@@ -52,7 +52,7 @@
         <mxCell id="1AkQIjq42c_OFpIzC1DM-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1AkQIjq42c_OFpIzC1DM-10">
           <mxGeometry x="45" y="900" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1AkQIjq42c_OFpIzC1DM-76" value="同步结果" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.097;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.429;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1AkQIjq42c_OFpIzC1DM-10">
+        <mxCell id="1AkQIjq42c_OFpIzC1DM-76" value="同步结果(进度)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=-0.097;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.429;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1AkQIjq42c_OFpIzC1DM-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-105" y="900" as="sourcePoint" />
             <mxPoint x="45" y="900" as="targetPoint" />
@@ -105,7 +105,7 @@
         <mxCell id="1AkQIjq42c_OFpIzC1DM-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1AkQIjq42c_OFpIzC1DM-25">
           <mxGeometry x="45" y="480" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="1AkQIjq42c_OFpIzC1DM-36" value="上报结果" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=-0.17;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;" edge="1" parent="1AkQIjq42c_OFpIzC1DM-25">
+        <mxCell id="1AkQIjq42c_OFpIzC1DM-36" value="上报结果(进度)" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=-0.17;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;" edge="1" parent="1AkQIjq42c_OFpIzC1DM-25">
           <mxGeometry x="0.0031" relative="1" as="geometry">
             <mxPoint x="-105" y="640" as="targetPoint" />
             <Array as="points" />
@@ -199,8 +199,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AkQIjq42c_OFpIzC1DM-48" value="文生图结果写入队列" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
-          <mxGeometry x="-0.0016" relative="1" as="geometry">
+        <mxCell id="1AkQIjq42c_OFpIzC1DM-48" value="文生图结果(进度)写入队列" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
             <mxPoint x="615" y="800" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="831.15" y="800" />
@@ -227,7 +227,7 @@
         <mxCell id="1AkQIjq42c_OFpIzC1DM-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="926" y="900.42" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1AkQIjq42c_OFpIzC1DM-71" value="读取文生图结果" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="1AkQIjq42c_OFpIzC1DM-71" value="读取文生图结果(进度)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="-0.0016" relative="1" as="geometry">
             <mxPoint x="295" y="900" as="sourcePoint" />
             <Array as="points">
