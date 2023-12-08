@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T08:22:17.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ayev1WjCzI7_YdD3-HJK" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T08:29:25.397Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pLP4xGZlP0VeCJRnIU3C" version="22.1.7" type="github">
   <diagram name="第 1 页" id="oaBtw_5lV8ZzY2PORr2H">
-    <mxGraphModel dx="1177" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1605" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,6 +682,84 @@
         </mxCell>
         <mxCell id="MgJ7v-1k1UXubmik8rXC-84" value="单向数据同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2340" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-85" value="" style="rounded=0;whiteSpace=wrap;html=1;textOpacity=30;opacity=40;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="920" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="940" width="160" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="940" width="160" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-88" value="TWProxy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-90" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-91" value="Redis集群" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-93" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1139.26" y="1040" as="sourcePoint" />
+            <mxPoint x="1139.26" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-94" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1139.67" y="1179" as="sourcePoint" />
+            <mxPoint x="1139.67" y="1239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-97" value="读写" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-98" value="读写" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-102" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-103" value="TWProxy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-104" value="Redis从节点" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-105" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1379.67" y="1179" as="sourcePoint" />
+            <mxPoint x="1379.67" y="1239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-106" value="读" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-111" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="1040" as="sourcePoint" />
+            <mxPoint x="1380" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-112" value="读" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="1050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-116" value="博兴机房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-117" value="阿里云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="1279.63" as="sourcePoint" />
+            <mxPoint x="1310" y="1279.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgJ7v-1k1UXubmik8rXC-119" value="主从同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1250" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
