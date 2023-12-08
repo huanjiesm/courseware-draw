@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T06:47:06.675Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="YF2-XEhIlVQgcoUtpE6f" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T06:48:34.928Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zgA8F4ZFQOVzHIeR9btN" version="22.1.7" type="github">
   <diagram name="第 1 页" id="oaBtw_5lV8ZzY2PORr2H">
     <mxGraphModel dx="2927" dy="2569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="1u79h0HgcGvWxB0CrH6v-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="500" y="-30" width="650" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-1" value="课件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-1" value="课件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry y="220" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1u79h0HgcGvWxB0CrH6v-2" value="课件API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -28,16 +28,16 @@
         <mxCell id="1u79h0HgcGvWxB0CrH6v-4" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="560" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-5" value="素材库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-5" value="素材库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-6" value="网校题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-6" value="网校题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="-80" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-7" value="内容云题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-7" value="内容云题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="-230" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-8" value="HA网关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-8" value="HA网关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry y="60" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1u79h0HgcGvWxB0CrH6v-9" value="GW网关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -160,19 +160,19 @@
         <mxCell id="1u79h0HgcGvWxB0CrH6v-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="450" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-52" value="课件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-52" value="课件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="783" y="220" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-53" value="素材库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-53" value="素材库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="853" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-54" value="网校题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-54" value="网校题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="703" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-55" value="内容云题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-55" value="内容云题库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="1003" y="360" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1u79h0HgcGvWxB0CrH6v-56" value="HA网关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1u79h0HgcGvWxB0CrH6v-56" value="HA网关" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="783" y="60" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1u79h0HgcGvWxB0CrH6v-57" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
