@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T01:37:28.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="I5q47JusdNz4dBxFdem4" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T01:50:53.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dLp6G9P-zmWACVxvGKlj" version="24.0.4" type="github">
   <diagram name="第 1 页" id="d8KmZj9_GvGI0I-hUGX7">
     <mxGraphModel dx="1050" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-14" value="saas工作台上线" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="155" y="249" width="107" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="F3YK4AfNzjIi9DIYoeeP-15" value="对接课件、讲义、组卷等" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="F3YK4AfNzjIi9DIYoeeP-15" value="课件下载(tsd/ppt/pdf)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="155" y="271" width="115" height="22" as="geometry" />
         </mxCell>
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-16" value="云盘空间大小" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
@@ -70,23 +70,23 @@
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-18" value="通用WebSocket服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="382.5" width="107" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="F3YK4AfNzjIi9DIYoeeP-19" value="页面截图服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="F3YK4AfNzjIi9DIYoeeP-19" value="截图服务-ECI" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="404.5" width="107" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="F3YK4AfNzjIi9DIYoeeP-20" value="课件PDF下载" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="F3YK4AfNzjIi9DIYoeeP-20" value="性能&amp;amp;稳定性建设" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="426.5" width="107" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="F3YK4AfNzjIi9DIYoeeP-21" value="ITS课件转换" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="F3YK4AfNzjIi9DIYoeeP-21" value="111" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="448.5" width="107" height="22" as="geometry" />
         </mxCell>
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-22" value="希望学升级" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="531" y="309" width="89" height="22" as="geometry" />
+          <mxGeometry x="531" y="316" width="89" height="22" as="geometry" />
         </mxCell>
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-23" value="培优1v1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="531" y="287" width="89" height="22" as="geometry" />
+          <mxGeometry x="531" y="294" width="89" height="22" as="geometry" />
         </mxCell>
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-24" value="海外分校" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="531" y="265" width="89" height="22" as="geometry" />
+          <mxGeometry x="531" y="272" width="89" height="22" as="geometry" />
         </mxCell>
         <mxCell id="F3YK4AfNzjIi9DIYoeeP-26" value="课件AI助手" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="712" y="381.5" width="107" height="22" as="geometry" />
@@ -118,8 +118,8 @@
             <mxPoint x="680" y="359.08000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3YK4AfNzjIi9DIYoeeP-33" value="魔法校" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="531" y="243" width="89" height="22" as="geometry" />
+        <mxCell id="F3YK4AfNzjIi9DIYoeeP-33" value="乐读" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="531" y="250" width="89" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
