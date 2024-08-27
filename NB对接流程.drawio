@@ -84,7 +84,7 @@
           <mxGeometry x="45" y="160" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="e6wSoJGut-9T4A9awZxF-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="e6wSoJGut-9T4A9awZxF-88">
-          <mxGeometry x="45" y="560" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="560" width="10" height="430" as="geometry" />
         </mxCell>
         <mxCell id="e6wSoJGut-9T4A9awZxF-94" value="NB官方API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="80" width="100" height="2730" as="geometry" />
@@ -93,7 +93,24 @@
           <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6wSoJGut-9T4A9awZxF-114" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="e6wSoJGut-9T4A9awZxF-94">
-          <mxGeometry x="45" y="600" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="600" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e6wSoJGut-9T4A9awZxF-120" value="精品实验列表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="e6wSoJGut-9T4A9awZxF-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-105" y="759" as="sourcePoint" />
+            <mxPoint x="45" y="759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6wSoJGut-9T4A9awZxF-121" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="e6wSoJGut-9T4A9awZxF-94">
+          <mxGeometry x="-0.003" relative="1" as="geometry">
+            <mxPoint x="-104" y="800" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="46" y="800" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6wSoJGut-9T4A9awZxF-123" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="e6wSoJGut-9T4A9awZxF-94">
+          <mxGeometry x="45" y="760" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e6wSoJGut-9T4A9awZxF-95" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="-0.003" relative="1" as="geometry">
@@ -172,6 +189,28 @@
             <mxPoint x="774" y="719.14" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="924" y="719.14" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6wSoJGut-9T4A9awZxF-118" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="-0.003" relative="1" as="geometry">
+            <mxPoint x="613" y="760" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="763" y="760" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6wSoJGut-9T4A9awZxF-119" value="精品实验列表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="613" y="799.21" as="sourcePoint" />
+            <mxPoint x="763" y="799.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6wSoJGut-9T4A9awZxF-122" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="-0.003" relative="1" as="geometry">
+            <mxPoint x="613" y="919.07" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="763" y="919.07" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
