@@ -454,16 +454,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6wSoJGut-9T4A9awZxF-203" value="实验插件对接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="776" y="990" width="144" height="30" as="geometry" />
+        <mxCell id="e6wSoJGut-9T4A9awZxF-203" value="实验插件对接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="771" y="990" width="154" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e6wSoJGut-9T4A9awZxF-205" value="打开精品实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="776" y="1270" width="144" height="30" as="geometry" />
+        <mxCell id="e6wSoJGut-9T4A9awZxF-205" value="打开精品实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="771.5" y="1270" width="154" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e6wSoJGut-9T4A9awZxF-206" value="打开我的实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="781" y="1710" width="144" height="30" as="geometry" />
+        <mxCell id="e6wSoJGut-9T4A9awZxF-206" value="打开我的实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="769" y="1710" width="159" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e6wSoJGut-9T4A9awZxF-207" value="新建/另存实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="e6wSoJGut-9T4A9awZxF-207" value="新建/另存实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="773" y="2270" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
