@@ -34,9 +34,6 @@
         <mxCell id="tGxa9McU4CZV0gH0aVvl-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="tGxa9McU4CZV0gH0aVvl-58">
           <mxGeometry x="45" y="280" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tGxa9McU4CZV0gH0aVvl-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="tGxa9McU4CZV0gH0aVvl-58">
-          <mxGeometry x="45" y="600" width="10" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-61" value="精品实验列表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="tGxa9McU4CZV0gH0aVvl-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-105" y="759" as="sourcePoint" />
