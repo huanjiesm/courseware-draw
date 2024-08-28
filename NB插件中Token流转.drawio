@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="78" width="100" height="1142" as="geometry" />
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="tGxa9McU4CZV0gH0aVvl-40">
-          <mxGeometry x="45" y="80" width="10" height="480" as="geometry" />
+          <mxGeometry x="45" y="82" width="10" height="480" as="geometry" />
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-43" value="NB插件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="80" width="100" height="1140" as="geometry" />
@@ -156,8 +156,8 @@
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-44" value="获取NB插件地址" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="456.5" y="160" as="sourcePoint" />
-            <mxPoint x="770" y="160" as="targetPoint" />
+            <mxPoint x="455.5" y="160" as="sourcePoint" />
+            <mxPoint x="769" y="160" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -191,8 +191,8 @@
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-123" value="加载NB实验插件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="455" y="639" as="sourcePoint" />
-            <mxPoint x="605" y="639" as="targetPoint" />
+            <mxPoint x="455" y="640" as="sourcePoint" />
+            <mxPoint x="605" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-124" value="解析Token" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
