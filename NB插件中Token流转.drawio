@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="80" width="10" height="440" as="geometry" />
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="tGxa9McU4CZV0gH0aVvl-52">
-          <mxGeometry x="50" y="700" width="10" height="280" as="geometry" />
+          <mxGeometry x="50" y="600" width="10" height="280" as="geometry" />
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-117" value="登录态不存在" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#FF3333;" vertex="1" parent="tGxa9McU4CZV0gH0aVvl-52">
           <mxGeometry x="60" y="270" width="53" height="10" as="geometry" />
@@ -117,10 +117,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tGxa9McU4CZV0gH0aVvl-76" value="精品实验列表" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="tGxa9McU4CZV0gH0aVvl-76" value="接口请求" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="613" y="799.21" as="sourcePoint" />
-            <mxPoint x="763" y="799.21" as="targetPoint" />
+            <mxPoint x="615" y="680" as="sourcePoint" />
+            <mxPoint x="770" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-77" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
@@ -174,6 +174,20 @@
             <mxPoint x="455" y="640" as="sourcePoint" />
             <mxPoint x="605" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGxa9McU4CZV0gH0aVvl-124" value="解析Token" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0067" y="20" relative="1" as="geometry">
+            <mxPoint x="780" y="720" as="sourcePoint" />
+            <mxPoint x="780" y="759" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="720" />
+              <mxPoint x="835" y="759" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tGxa9McU4CZV0gH0aVvl-125" value="payload = jwt.Parse(token&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="837" y="740" width="103" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
