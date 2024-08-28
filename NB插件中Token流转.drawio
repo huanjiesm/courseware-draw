@@ -100,7 +100,7 @@
         </mxCell>
         <mxCell id="tGxa9McU4CZV0gH0aVvl-71" value="返回NB插件加载地址" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="0.0031" relative="1" as="geometry">
-            <mxPoint x="461" y="600" as="targetPoint" />
+            <mxPoint x="456" y="600" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="769" y="600" as="sourcePoint" />
             <mxPoint as="offset" />
