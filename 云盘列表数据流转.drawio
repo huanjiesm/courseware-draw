@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2_8pNaF0JGxz7HWhpokf-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="130" width="520" height="400" as="geometry" />
+          <mxGeometry x="80" y="140" width="520" height="380" as="geometry" />
         </mxCell>
         <mxCell id="2_8pNaF0JGxz7HWhpokf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="299.5" y="160" width="280.5" height="360" as="geometry" />
+          <mxGeometry x="299.5" y="170" width="280.5" height="340" as="geometry" />
         </mxCell>
         <mxCell id="2_8pNaF0JGxz7HWhpokf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="99" y="160" width="161" height="360" as="geometry" />
+          <mxGeometry x="99" y="170" width="161" height="340" as="geometry" />
         </mxCell>
         <mxCell id="2_8pNaF0JGxz7HWhpokf-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="180" width="30" height="60" as="geometry" />
@@ -88,8 +88,8 @@
         <mxCell id="2_8pNaF0JGxz7HWhpokf-20" value="B&lt;span style=&quot;background-color: initial;&quot;&gt;inlog同步（课件，Paper等资源数据）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2_8pNaF0JGxz7HWhpokf-22" value="SAAS云盘数据流转核心流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="123" width="160" height="30" as="geometry" />
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-22" value="SAAS云盘数据流转核心流程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="140" width="160" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
