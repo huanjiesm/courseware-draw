@@ -7,6 +7,12 @@
         <mxCell id="2_8pNaF0JGxz7HWhpokf-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-2" value="数据生产" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-3" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
