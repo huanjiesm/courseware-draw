@@ -64,6 +64,12 @@
             <mxPoint x="520" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-15" value="同步至缓存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-16" value="数据权限、置顶、协作分享等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="287" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
