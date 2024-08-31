@@ -4,19 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="160" width="280.5" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="99" y="160" width="161" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="2_8pNaF0JGxz7HWhpokf-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2_8pNaF0JGxz7HWhpokf-2" value="数据生产" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-2" value="数据生产" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2_8pNaF0JGxz7HWhpokf-3" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-3" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2_8pNaF0JGxz7HWhpokf-4" value="ElasticSearch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-4" value="ElasticSearch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2_8pNaF0JGxz7HWhpokf-5" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-5" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2_8pNaF0JGxz7HWhpokf-6" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
