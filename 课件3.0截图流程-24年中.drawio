@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="第 1 页" id="f09VkuWmtvok5BpJ4h2X">
-    <mxGraphModel dx="1500" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="500" dy="295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -488,6 +488,31 @@
         </mxCell>
         <mxCell id="bO9yQUU3Ifno4GD42RCJ-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="bO9yQUU3Ifno4GD42RCJ-91">
           <mxGeometry x="45" y="819" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bO9yQUU3Ifno4GD42RCJ-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="bO9yQUU3Ifno4GD42RCJ-91">
+          <mxGeometry x="45" y="920" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bO9yQUU3Ifno4GD42RCJ-97" value="页面加载&lt;div&gt;（&lt;font color=&quot;#ff3333&quot;&gt;流量拦截&lt;/font&gt;）&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bO9yQUU3Ifno4GD42RCJ-91">
+          <mxGeometry x="-0.1275" y="18" relative="1" as="geometry">
+            <mxPoint x="44" y="1000" as="sourcePoint" />
+            <mxPoint x="44" y="1039" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-11" y="1000" />
+              <mxPoint x="-11" y="1039" />
+            </Array>
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bO9yQUU3Ifno4GD42RCJ-96" value="任务调用" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1275" y="1" relative="1" as="geometry">
+            <mxPoint x="1244.000000000001" y="1000" as="sourcePoint" />
+            <mxPoint x="1244.000000000001" y="1039" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1189.000000000001" y="1000" />
+              <mxPoint x="1189.000000000001" y="1039" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
