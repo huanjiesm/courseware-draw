@@ -76,6 +76,15 @@
         <mxCell id="2_8pNaF0JGxz7HWhpokf-16" value="数据权限、置顶、协作分享等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="321" y="287" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="469.58" as="sourcePoint" />
+            <mxPoint x="434" y="469.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2_8pNaF0JGxz7HWhpokf-20" value="B&lt;span style=&quot;background-color: initial;&quot;&gt;inlog同步（课件，Paper等资源数据）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
