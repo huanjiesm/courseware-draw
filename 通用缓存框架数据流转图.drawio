@@ -4,14 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1vQVlJdNgarl2FIqYM4--17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;opacity=30;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-30" width="540" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1vQVlJdNgarl2FIqYM4--16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;opacity=30;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="540" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="1vQVlJdNgarl2FIqYM4--4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;opacity=30;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="540" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1vQVlJdNgarl2FIqYM4--15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;opacity=30;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="230" width="540" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1vQVlJdNgarl2FIqYM4--16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;opacity=30;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="540" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1vQVlJdNgarl2FIqYM4--1" value="本地缓存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="120" height="60" as="geometry" />
@@ -51,9 +54,6 @@
         </mxCell>
         <mxCell id="1vQVlJdNgarl2FIqYM4--14" value="数据人工维护" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;dashed=1;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="600" y="-20" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1vQVlJdNgarl2FIqYM4--17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;opacity=30;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-30" width="540" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
