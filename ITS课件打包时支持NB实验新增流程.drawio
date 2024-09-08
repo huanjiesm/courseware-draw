@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="tiYUnJvVOCXBV-YzLy7C">
-    <mxGraphModel>
+    <mxGraphModel dx="600" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="376" y="70" width="470" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="420" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-3" value="ITS课件打包服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ZbB02w1wqReUTFrwt4TX-3">
+          <mxGeometry x="45" y="80" width="10" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-5" value="NB服务后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="559" y="80" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ZbB02w1wqReUTFrwt4TX-5">
+          <mxGeometry x="45" y="80" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ZbB02w1wqReUTFrwt4TX-5">
+          <mxGeometry x="45" y="320" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-7" value="NB官方API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ZbB02w1wqReUTFrwt4TX-7">
+          <mxGeometry x="45" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ZbB02w1wqReUTFrwt4TX-7">
+          <mxGeometry x="45" y="359.71000000000004" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-30" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="ZbB02w1wqReUTFrwt4TX-7">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="-106" y="399.7099999999999" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="44" y="399.7099999999999" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-31" value="获取打包结果" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="ZbB02w1wqReUTFrwt4TX-7">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="-105" y="359.71000000000004" as="sourcePoint" />
+            <mxPoint x="45" y="359.71000000000004" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-9" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="614" y="239.99999999999994" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="764" y="239.99999999999994" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-11" value="创建打包任务" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="455" y="160" as="sourcePoint" />
+            <mxPoint x="605" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-12" value="创建打包任务" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="615" y="200" as="sourcePoint" />
+            <mxPoint x="765" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-13" value="检查打包状态(循环)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1276" y="29" relative="1" as="geometry">
+            <mxPoint x="456" y="320" as="sourcePoint" />
+            <mxPoint x="456" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="320" />
+              <mxPoint x="511" y="359" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-26" value="返回" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="454" y="279.99999999999994" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="604" y="279.99999999999994" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-27" value="获取打包结果" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="455" y="399.71000000000004" as="sourcePoint" />
+            <mxPoint x="605" y="399.71000000000004" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-32" value="返回打包结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry x="0.0031" relative="1" as="geometry">
+            <mxPoint x="454" y="520.28" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="604" y="520.28" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-33" value="解压离线包" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1276" y="29" relative="1" as="geometry">
+            <mxPoint x="456" y="560" as="sourcePoint" />
+            <mxPoint x="456" y="599" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="560" />
+              <mxPoint x="511" y="599" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbB02w1wqReUTFrwt4TX-34" value="更新page.json" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;entryX=1.027;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1276" y="29" relative="1" as="geometry">
+            <mxPoint x="456" y="640" as="sourcePoint" />
+            <mxPoint x="456" y="679" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="640" />
+              <mxPoint x="511" y="679" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
